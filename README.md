@@ -1,2 +1,2 @@
 # awesome
-tweeked copycats version of multicolr
+tweeked copycats version of multicolor
